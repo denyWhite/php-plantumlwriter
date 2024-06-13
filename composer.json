@@ -1,7 +1,7 @@
 {
     "name": "davidfuhr/php-plantumlwriter",
     "description": "A tool to create PlantUML class diagrams from your PHP source.",
-    "type": "project",
+    "type": "library",
     "keywords": [
         "uml"
     ],
